@@ -1,5 +1,5 @@
-Home: This is your landing page and should be a clear and concise introduction to your school. Include a captivating image or video showcasing Capoeira, a brief description of your school's philosophy and offerings, and a call to action (e.g., try a free class!).
-About Us: Tell your story! This page should detail the history of your school, the instructors' qualifications and experience, and the values that guide your teaching.
-Classes: Clearly outline the class schedule by age group, skill level (beginner, intermediate, advanced), and perhaps even Capoeira style (Angola, Regional etc.). Mention any special workshops or events.
+Početna: This is your landing page and should be a clear and concise introduction to your school. Include a captivating image or video showcasing Capoeira, a brief description of your school's philosophy and offerings, and a call to action (e.g., try a free class!).
+O nama: Tell your story! This page should detail the history of your school, the instructors' qualifications and experience, and the values that guide your teaching.
+Časovi: Clearly outline the class schedule by age group, skill level (beginner, intermediate, advanced), and perhaps even Capoeira style (Angola, Regional etc.). Mention any special workshops or events.
 Benefits: Why choose Capoeira? This page should highlight the physical and mental benefits of practicing Capoeira, focusing on aspects like fitness, coordination, cultural immersion, and community.
-Contact: Make it easy for people to reach you! Include your school's address (if you have a physical location), phone number, email address, and a contact form. Consider adding links to your social media pages.
+Kontakt: Make it easy for people to reach you! Include your school's address (if you have a physical location), phone number, email address, and a contact form. Consider adding links to your social media pages.
