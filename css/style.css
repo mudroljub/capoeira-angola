@@ -93,6 +93,12 @@ ol li {
   margin: 0 0 11px 0;
 }
 
+#img-logo {
+  float: left;
+  height: 100px;
+  margin-right: 10px;
+}
+
 #main,
 #logo,
 #menubar,
