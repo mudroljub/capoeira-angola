@@ -1,3 +1,7 @@
+:root {
+  --green: #7ec344;
+}
+
 html {
   height: 100%;
 }
@@ -8,9 +12,10 @@ html {
 }
 
 body {
-  font: normal .80em 'trebuchet ms', arial, sans-serif;
+  font-family: 'trebuchet ms', arial, sans-serif;
+  font-size: .9em;
   background: #F0EFE2 url(background.png) repeat;
-  color: #777;
+  color: #4f4f4f;
 }
 
 p {
@@ -28,35 +33,10 @@ h3,
 h4,
 h5,
 h6 {
-  font: normal 175% 'century gothic', arial, sans-serif;
-  color: #068900;
+  font-weight: normal;
+  color: var(--green);
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;
-}
-
-h2 {
-  font: normal 175% 'century gothic', arial, sans-serif;
-  color: #068900;
-}
-
-h4,
-h5,
-h6 {
-  margin: 0;
-  padding: 0 0 5px 0;
-  font: normal 120% arial, sans-serif;
-  color: #068900;
-}
-
-h5,
-h6 {
-  font: italic 95% arial, sans-serif;
-  padding: 0 0 15px 0;
-  color: #000;
-}
-
-h6 {
-  color: #362C20;
 }
 
 a,
@@ -145,7 +125,7 @@ ol li {
 }
 
 #logo_text h1 a .logo_colour {
-  color: #068900;
+  color: var(--green);
 }
 
 #logo_text h2 {
@@ -196,7 +176,7 @@ ol li {
 #menu li.selected a,
 #menu li.selected a:hover {
   color: #FFF;
-  background: #068900;
+  background: var(--green);
 }
 
 #site_content {
@@ -322,7 +302,7 @@ ol li {
   height: 33px;
   padding: 2px 0 3px 0;
   cursor: pointer;
-  background: #068900;
+  background: var(--green);
   color: #FFF;
 }
 
