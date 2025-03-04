@@ -2,10 +2,6 @@
   --green: #7ec344;
 }
 
-html {
-  height: 100%;
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -211,7 +207,6 @@ ol li {
   text-align: center;
   background: transparent url(transparent.png) repeat;
   color: #FFF;
-  text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 
